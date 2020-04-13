@@ -1,0 +1,16 @@
+com\ouhk\webforum\dao\PollVoteRepository.class
+com\ouhk\webforum\model\PollVote.class
+com\ouhk\webforum\model\UserRole.class
+com\ouhk\webforum\controller\IndexController.class
+com\ouhk\webforum\model\ForumUser.class
+com\ouhk\webforum\controller\CategoriesIndexController.class
+com\ouhk\webforum\controller\IndexController$RegisterForm.class
+com\ouhk\webforum\dao\PollRepository.class
+com\ouhk\webforum\dao\ForumUserRepository.class
+com\ouhk\webforum\dao\UserRoleRepository.class
+com\ouhk\webforum\service\ForumUserService.class
+com\ouhk\webforum\service\PollServiceImpl.class
+com\ouhk\webforum\controller\PollController.class
+com\ouhk\webforum\controller\PollController$PollForm.class
+com\ouhk\webforum\model\Poll.class
+com\ouhk\webforum\service\PollService.class
